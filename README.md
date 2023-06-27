@@ -1,2 +1,3 @@
 # Scientific_Calculator_GUI
 I create a GUI-based Scientific Calculator that accepts all the math operations including lag & trigonometric when the user enters the value and enters the “button”, he will get the respective output. The scientific Calculator works similarly to the normal calculator but with some added functionalities.
+In this project, I will take one, two, or more values(operands) as input from the user and operate with the help of operators and produce the output. I just write our python script in any text editor or IDE and run it. After running the script a new window will appear with GUI(Graphical User Interface), I can enter any values and get the output accordingly.
